@@ -9,7 +9,7 @@ HELP_PIC = "https://telegra.ph/file/ac2cbc52c602ed4dbc549.jpg"
 
 DEAD_Help = " Sᴘᴀᴍ Bᴏᴛ \n\n"
  
-DEAD_Help += f"_ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
+DEAD_Help += f"ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʙᴏᴛ\n\n"
 
 DEAD_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -25,7 +25,7 @@ DEAD_Help += f" `.raid` - to raid\n `.replyraid` - to active reply raid\n `.drep
 
 DEAD_Help += f" .deadlyspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ ↧\n\n"
 
-DEAD_Help += f"© @OFFICILHACKERERA\n"
+DEAD_Help += f"© @OFFICIALHACKERERA"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
