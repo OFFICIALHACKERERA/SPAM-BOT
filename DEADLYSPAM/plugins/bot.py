@@ -18,11 +18,11 @@ from datetime import datetime
 DEAD_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ac2cbc52c602ed4dbc549.jpg"
   
 
-DEADLY = "✯ OFFICIALHACKERERA ✯\n\n"
+DEADLY = "✯ sᴘᴀᴍʙᴏᴛ ✯\n\n"
 DEADLY += f"═══════════════════\n"
 DEADLY += f"• **ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `3.10.1`\n"
 DEADLY += f"• **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ** : `{version.__version__}`\n"
-DEADLY += f"• **ᴅᴇᴀᴅʟʏʙᴏᴛ ᴠᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
+DEADLY += f"• **sᴘᴀᴍʙᴏᴛ ᴠᴇʀsɪᴏɴ**  : `{deadlyversion}`\n"
 DEADLY += f"═══════════════════\n\n"   
 
                                   
