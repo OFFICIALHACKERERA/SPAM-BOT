@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)]()
+[![LEGENDBOT](https://telegra.ph/file/ac2cbc52c602ed4dbc549.jpg)]()
 
 
 Mᴀɴᴀɢᴇᴅ Bʏ: [卄ﾑᥴᛕꫀ᥅ 〤 丂нﾑKﾑ](https://t.me/ShaKaOp)
