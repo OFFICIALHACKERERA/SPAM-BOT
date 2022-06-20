@@ -16,8 +16,8 @@ Deadly_Button = [
                
 DeadlyX_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Deadly_spambot"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/deadly_spam_bot")
+        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Broken_Heart_72"),
+        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/HEPPYLIFI")
         ],
         [
         Button.url("• ᴏᴡɴᴇʀ •", "https://github.com/Team-Deadly/DEADLY-SPAMBOT")
