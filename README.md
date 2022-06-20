@@ -17,3 +17,4 @@ Mᴀɴᴀɢᴇᴅ Bʏ: [卄ﾑᥴᛕꫀ᥅ 〤 丂нﾑKﾑ](https://t.me/ShaKaO
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Team-Deadly/BOTDEPLOY"><img align="center" alt="Heroku" width="92px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
 
 
+[![LEGENDBOT](https://telegra.ph/file/2dfd3e6d9007aabffad92.jpg)](https://github.com/ITS-LEGENDBOT/LEGENDBOT)
