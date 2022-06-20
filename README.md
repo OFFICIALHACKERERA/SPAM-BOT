@@ -1,6 +1,5 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-# 「[DeadlySpam👮](https://t.me/deadly_spam_bot)」
-Mᴀɴᴀɢᴇᴅ Bʏ: [⛓️𝘽𝙡𝙖𝙯𝙚✘ᥫʀ᭡](https://t.me/Trex_2_0)
+
 
 Mᴀɴᴀɢᴇᴅ Bʏ: [卄ﾑᥴᛕꫀ᥅ 〤 丂нﾑKﾑ](https://t.me/ShaKaOp)
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
