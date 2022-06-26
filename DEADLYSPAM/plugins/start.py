@@ -6,7 +6,7 @@ from telethon import events, Button
 from telethon.tl.custom import button
 from DEADLYSPAM import BOT0, BOT1, BOT2, BOT3, BOT4, BOT5, BOT6, BOT7, BOT8, BOT9, ALIVE_PIC, OWNER_ID
 
-DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/12aa46a2c6da5ec20f8ac.jpg"
 
 Deadly_Button = [
         [
@@ -47,8 +47,8 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheDeadly = event.chat_id
        firstname = replied_user.user.first_name
-       ownermsg = f"**Hi Master, Its me {bot_id}, Your Spam Bot !! \n\n Click Below Buttons For help**"
-       usermsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**"
+       ownermsg = f"**Hi Master, Its me {bot_id}, 🔱 ╚» 𝐔𝐋𝐓𝐑𝐀 𝐗 «╝🔥𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐁𝐎𝐓🔥**"
+       usermsg = f"**Hello, {firstname} 🔱 ╚» 𝐔𝐋𝐓𝐑𝐀 𝐗 «╝🔥𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐁𝐎𝐓🔥**"
        if event.sender_id == OWNER_ID:
             await event.client.send_file(TheDeadly,
                   DEADLY_IMG,
