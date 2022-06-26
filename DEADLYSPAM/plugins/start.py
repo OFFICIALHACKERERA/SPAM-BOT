@@ -10,18 +10,21 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/12aa46a2c6da5
 
 Deadly_Button = [
         [
-        Button.url("ᴏᴡɴᴇʀ", "https://t.me/OFFICIALHACKERERA"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/HEPPYLIFI")
+
+        Button.url("•ᴄʜᴀɴɴᴇʟ•", "https://t.me/Broken_Heart_72"),
+        Button.url("•ᴏᴡɴᴇʀ•", "https://t.me/OFFICIALHACKERERA")
+        Button.url("•sᴜᴘᴘᴏʀᴛ•", "https://t.me/HEPPYLIFI")
+        
         ]
         ]
                
 DeadlyX_Button = [
         [
-        Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Broken_Heart_72"),
-        Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/HEPPYLIFI")
-        ],
-        [
-        Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/OFFICIALHACKERERA")
+
+        Button.url("•ᴄʜᴀɴɴᴇʟ•", "https://t.me/Broken_Heart_72"),
+        Button.url("•ᴏᴡɴᴇʀ•", "https://t.me/OFFICIALHACKERERA")
+        Button.url("•sᴜᴘᴘᴏʀᴛ•", "https://t.me/HEPPYLIFI")
+
         ]
         ]
         
@@ -48,7 +51,7 @@ async def start(event):
        TheDeadly = event.chat_id
        firstname = replied_user.user.first_name
        ownermsg = f"**Hi Master, Its me {bot_id}, 🔱 ╚» 𝐔𝐋𝐓𝐑𝐀 𝐗 «╝🔥𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐁𝐎𝐓🔥**"
-       usermsg = f"**Hello, {firstname} 🔱 ╚» 𝐔𝐋𝐓𝐑𝐀 𝐗 «╝🔥𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐁𝐎𝐓🔥**"
+       usermsg = f"**Hello {firstname} 🔱 ╚» 𝐔𝐋𝐓𝐑𝐀 𝐗 «╝🔥𝐒𝐏𝐀𝐌𝐌𝐄𝐑 𝐁𝐎𝐓🔥**"
        if event.sender_id == OWNER_ID:
             await event.client.send_file(TheDeadly,
                   DEADLY_IMG,
