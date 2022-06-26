@@ -10,21 +10,21 @@ DEADLY_IMG = ALIVE_PIC if ALIVE_PIC else "https://te.legra.ph/file/12aa46a2c6da5
 
 Deadly_Button = [
         [
-
         Button.url("•ᴄʜᴀɴɴᴇʟ•", "https://t.me/Broken_Heart_72"),
-        Button.url("•ᴏᴡɴᴇʀ•", "https://t.me/OFFICIALHACKERERA")
         Button.url("•sᴜᴘᴘᴏʀᴛ•", "https://t.me/HEPPYLIFI")
-        
+        ],
+        [
+        Button.url("•ᴏᴡɴᴇʀ•", "https://t.me/OFFICIALHACKERERA")
         ]
         ]
-               
+
 DeadlyX_Button = [
         [
-
         Button.url("•ᴄʜᴀɴɴᴇʟ•", "https://t.me/Broken_Heart_72"),
-        Button.url("•ᴏᴡɴᴇʀ•", "https://t.me/OFFICIALHACKERERA")
         Button.url("•sᴜᴘᴘᴏʀᴛ•", "https://t.me/HEPPYLIFI")
-
+        ],
+        [
+        Button.url("•ᴏᴡɴᴇʀ•", "https://t.me/OFFICIALHACKERERA")
         ]
         ]
         
