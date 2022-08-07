@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from DEEPAK import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/ac2cbc52c602ed4dbc549.jpg"
+HELP_PIC = "https://telegra.ph/file/474d8351664ee3ae2d6ef.jpg"
 
 DEAD_Help = " Sᴘᴀᴍ Bᴏᴛ \n\n"
  
