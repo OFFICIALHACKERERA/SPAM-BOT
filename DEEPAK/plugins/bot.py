@@ -35,7 +35,7 @@ async def alive(event):
                                   buttons=[
         [
         Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/Broken_Heart_72"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/HEPPYLIFI")
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/Bhutiya_Haveli")
         ],
         [
         Button.url("• ᴏᴡɴᴇʀ •", "https://t.me/OFFICIALHACKERERA")
